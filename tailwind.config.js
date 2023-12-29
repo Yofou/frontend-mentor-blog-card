@@ -19,7 +19,7 @@ export default {
 	  fontSize: {
 		  heading: '1.5rem',
 		  bodyM: '1rem',
-		  bodyS: '0.75rem',
+		  bodyS: '0.875rem',
 	  },
   },
   plugins: [

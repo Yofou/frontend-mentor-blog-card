@@ -7,22 +7,22 @@
 		</div>
 
 		<p
-			class="py-[.25rem] text-black font-bold px-[.75rem] bg-yellow rounded-[.25rem] self-start mt-[1.5rem] text-bodyS"
+			class="py-[.25rem] text-black font-extrabold px-[.75rem] bg-yellow rounded-[.25rem] self-start mt-[1.5rem] body-s"
 		>
 			Learning
 		</p>
 
-		<p class="mt-[.75rem] text-bodyS">Published 21 Dec 2023</p>
-		<a class="mt-[.75rem] heading font-bold text-black hover:text-yellow transition-colors" href="/">HTML & CSS foundations</a>
+		<p class="mt-[.75rem] body-s">Published 21 Dec 2023</p>
+		<a class="mt-[.75rem] heading font-extrabold text-black hover:text-yellow transition-colors" href="/">HTML & CSS foundations</a>
 
-		<p class="text-grey mt-[.75rem] body-m">
+		<p class="text-grey mt-[.75rem] font-medium body-m">
 			These languages are the backbone of every website, defining
 			structure, content, and presentation.
 		</p>
 
-		<div class="flex gap-[.75rem] mt-6 items-center body-s font-bold">
+		<div class="flex gap-[.75rem] mt-6 items-center">
 			<img src="/userpic.png" alt="" />
-			<p>Greg Hooper</p>
+			<p class="body-s font-extrabold">Greg Hooper</p>
 		</div>
 	</section>
 </template>
