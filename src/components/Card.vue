@@ -12,7 +12,7 @@
 			Learning
 		</p>
 
-		<p class="mt-[.75rem] body-s">Published 21 Dec 2023</p>
+		<p class="mt-[.75rem] font-medium body-s">Published 21 Dec 2023</p>
 		<a class="mt-[.75rem] heading font-extrabold text-black hover:text-yellow transition-colors" href="/">HTML & CSS foundations</a>
 
 		<p class="text-grey mt-[.75rem] font-medium body-m">
