@@ -21,7 +21,7 @@
 		</p>
 
 		<div class="flex gap-[.75rem] mt-6 items-center">
-			<img src="/userpic.png" alt="" />
+			<img class="w-8 h-8" src="/userpic.png" alt="" />
 			<p class="body-s font-extrabold">Greg Hooper</p>
 		</div>
 	</section>

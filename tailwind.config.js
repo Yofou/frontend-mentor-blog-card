@@ -29,16 +29,19 @@ export default {
 				fontFamily: theme('fontFamily.figma'),
 				fontSize: theme('fontSize.bodyS'),
 				lineHeight: '150%',
+				fontStyle: 'normal',
 			},
 			'.body-m': {
 				fontFamily: theme('fontFamily.figma'),
 				fontSize: theme('fontSize.bodyM'),
 				lineHeight: '150%',
+				fontStyle: 'normal',
 			},
 			'.heading': {
 				fontFamily: theme('fontFamily.figma'),
 				fontSize: theme('fontSize.heading'),
 				lineHeight: '150%',
+				fontStyle: 'normal',
 			},
 		})
 	})
