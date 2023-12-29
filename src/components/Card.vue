@@ -1,6 +1,6 @@
 <template>
 	<section
-		class="max-w-[384px] w-full p-6 rounded-[1.25rem] bg-white border border-black [box-shadow:8px_8px_0px_0px_#000] flex flex-col"
+		class="max-w-[384px] w-full p-6 rounded-[1.25rem] bg-white outline-1 outline outline-black [box-shadow:8px_8px_0px_0px_#000] flex flex-col"
 	>
 		<div class="w-full h-[12.5rem] bg-yellow rounded-[.625rem] overflow-hidden">
 			<CardHeader class="w-full" preserveAspectRatio="xMinYMin slice"  />
